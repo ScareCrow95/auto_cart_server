@@ -19,7 +19,7 @@ How to install the project
 Clone the git repo
 
 ```
-git clone http://git.cs.jmu.edu/av-xlabs-19/monitoring_networking/backend.git
+git clone https://github.com/ScareCrow95/auto_cart_server.git
 ```
 
 change to the project directory and install node packages
@@ -30,14 +30,17 @@ npm install
 
 Create a new folder - keys at same level as repo.
 
-Create file keys.js inside it (Message me for the contents.)
+Create file keys.js inside it (Check the google drive folder)
 
+Start the server
 
-Start the server 
+Starts the http server at: http://localhost:8019
+Starts the socketio server at: http://localhost:8020
+
 ```
 npm start
 ```
 
 ## Authors
 
-* **Mridul Pareek** - *Initial work* - [Scarecrow95](https://github.com/ScareCrow95)
+- **Mridul Pareek** - _Initial work_ - [Scarecrow95](https://github.com/ScareCrow95)
