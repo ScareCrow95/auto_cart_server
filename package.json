@@ -1,0 +1,43 @@
+{
+  "name": "creatrix-server",
+  "version": "1.0.0",
+  "description": "backend server JMU Autonomous Vehicle",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon --trace-warnings server.js"
+  },
+  "author": "Mridul Pareek",
+  "license": "MIT",
+  "engines": {
+    "node": "8.11.1"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cli-progress": "^2.1.1",
+    "compression": "^1.7.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "geocluster": "^0.1.1",
+    "gps-distance": "0.0.4",
+    "hashset": "0.0.6",
+    "helmet": "^3.15.0",
+    "jsonwebtoken": "^8.3.0",
+    "lerp": "^1.0.3",
+    "mongoose": "^5.4.2",
+    "morgan": "^1.9.1",
+    "onesignal-node": "^2.1.1",
+    "socket.io": "^2.2.0",
+    "uuid": "^3.3.3",
+    "ws": "^6.1.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "eslint": "^4.19.1",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-prettier": "^3.0.0",
+    "lint-staged": "^8.0.4",
+    "nodemon": "^1.18.5",
+    "prettier": "^1.14.3"
+  }
+}
