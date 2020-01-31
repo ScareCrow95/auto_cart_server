@@ -23,7 +23,7 @@
     "helmet": "^3.15.0",
     "jsonwebtoken": "^8.3.0",
     "lerp": "^1.0.3",
-    "mongoose": "^5.4.2",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "onesignal-node": "^2.1.1",
     "socket.io": "^2.2.0",
