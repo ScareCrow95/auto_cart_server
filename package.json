@@ -28,7 +28,7 @@
     "onesignal-node": "^2.1.1",
     "socket.io": "^2.2.0",
     "uuid": "^3.3.3",
-    "ws": "^6.1.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
