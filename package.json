@@ -26,7 +26,7 @@
     "mongoose": "^5.4.2",
     "morgan": "^1.9.1",
     "onesignal-node": "^2.1.1",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.5.0",
     "uuid": "^3.3.3",
     "ws": "^6.1.0"
   },
