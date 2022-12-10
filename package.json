@@ -16,7 +16,7 @@
     "cli-progress": "^2.1.1",
     "compression": "^1.7.3",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "geocluster": "^0.1.1",
     "gps-distance": "0.0.4",
     "hashset": "0.0.6",
