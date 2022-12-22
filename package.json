@@ -21,7 +21,7 @@
     "gps-distance": "0.0.4",
     "hashset": "0.0.6",
     "helmet": "^3.15.0",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "lerp": "^1.0.3",
     "mongoose": "^5.4.2",
     "morgan": "^1.9.1",
